@@ -110,7 +110,7 @@ export default function MovieApp() {
 
   return (
     <div>
-      <h1>MovieHome</h1>
+      <h1>MovieStore</h1>
       <div className="search-bar">
         <input
           type="text"
